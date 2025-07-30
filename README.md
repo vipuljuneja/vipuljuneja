@@ -74,4 +74,3 @@ Contributions:
 
 ---
 
-> Building, shipping, and learning—one repo at a time.
